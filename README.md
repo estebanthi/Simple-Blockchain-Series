@@ -1,1 +1,6 @@
-# Simple-Blockchain-Series
+# Learn Blockchains by Building One in Python
+
+---
+[Learn Blockchains by Building One in Python](https://medium.com/@estebanthi/learn-blockchains-by-building-one-in-python-6d7580ea2c93)
+
+1. [Blockchain Basics](https://medium.com/@estebanthi/learn-blockchains-by-building-one-in-python-1-blockchain-basics-4732ed68973f)
